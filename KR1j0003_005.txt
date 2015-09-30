@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅疏
-#+DATE: 2015-09-23 09:41:08
+#+DATE: 2015-09-11 23:37:13.966774
+#+PROPERTY: ID KR1j0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB05n0589-005爾雅疏-卷五.
 <pb:KR1j0003_SBCK_005-1a>¶
 爾雅䟽卷第五¶
 　　　翰林侍講學士朝請大夫守國子祭酒上柱國賜紫金魚袋臣邢昺等奉¶
@@ -543,4 +547,3 @@
 義亦通也¶
 爾雅䟽卷第五¶
 <pb:KR1j0003_SBCK_005-18a>¶
-

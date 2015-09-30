@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅疏
-#+DATE: 2015-09-23 09:41:08
+#+DATE: 2015-09-11 23:37:13.741160
+#+PROPERTY: ID KR1j0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB05n0589-000爾雅疏-序.
 <pb:KR1j0003_SBCK_000-1a>¶
 爾雅䟽敘¶
 　　　翰林侍講學士朝請大夫守國子祭酒上柱國賜紫金魚袋臣邢　昺　等奉¶
@@ -18,4 +22,3 @@
 近俗儒不經師匠今旣奉¶
 勑校定考案其事必以經籍爲宗理義所詮則以景純爲主雖復研精覃思尚¶
 慮學淺意䟽謹與尚書駕部貟外郎直祕閣臣杜鎬尚書都官貟外郎祕閣校¶
-

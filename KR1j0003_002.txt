@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅疏
-#+DATE: 2015-09-23 09:41:08
+#+DATE: 2015-09-11 23:37:13.825406
+#+PROPERTY: ID KR1j0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB05n0589-002爾雅疏-卷二.
 <pb:KR1j0003_SBCK_002-1a>¶
 爾雅䟽卷第二¶
 　　　翰林侍講學士朝請大夫守國子祭酒上柱國賜紫金魚袋臣邢昺等奉¶
@@ -414,4 +418,3 @@
 方乃死者皆虞書舜典文也謂之殂落者蓋殂爲往也言人命盡而往落者若¶
 草木葉落也殪者案隱九年左傳云衷戎師前後擊之盡殪杜注云殪死也¶
 爾雅䟽卷第二¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅疏
-#+DATE: 2015-09-23 09:41:08
+#+DATE: 2015-09-11 23:37:14.009305
+#+PROPERTY: ID KR1j0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB05n0589-006爾雅疏-卷六.
 <pb:KR1j0003_SBCK_006-1a>¶
 爾雅䟽卷第六¶
 　　　翰林侍講學士朝請大夫守國子祭酒上柱國賜紫金魚袋臣邢昺等奉¶
@@ -433,4 +437,3 @@
 此者以皆王者大事又祭名則天曰蟠柴講武則&KR0011;於上帝旌旂則日月爲常¶
 他篇不可攝故繫之釋天也¶
 爾雅䟽卷第六¶
-

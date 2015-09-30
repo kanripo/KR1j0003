@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅疏
-#+DATE: 2015-09-23 09:41:08
+#+DATE: 2015-09-11 23:37:13.915414
+#+PROPERTY: ID KR1j0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB05n0589-004爾雅疏-卷四.
 <pb:KR1j0003_SBCK_004-1a>¶
 爾雅䟽卷第四¶
 　　　翰林侍講學士朝請大夫守國子祭酒上柱國賜紫金魚袋臣邢昺等奉¶
@@ -413,4 +417,3 @@
 其試哉女于時觀厥刑于二女&KR0117;降一女于嬀汭嬪于虞孔安國注云降下嬪¶
 婦也舜爲匹夫能以義理下帝女之心於所居嬀水之汭使行婦道於虞氏是也¶
 爾雅䟽卷第四¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅疏
-#+DATE: 2015-09-23 09:41:08
+#+DATE: 2015-09-11 23:37:13.772701
+#+PROPERTY: ID KR1j0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB05n0589-001爾雅疏-卷一.
 <pb:KR1j0003_SBCK_001-1a>¶
 理臣舒雅太常博士直集賢院臣李維諸王府侍講太常博士兼國子監直講¶
 臣孫奭殿中丞臣李慕淸大理寺丞國子監直講臣王煥大理評事國子監直¶
@@ -382,4 +386,3 @@
 謂自勉強也騖謂馳騖務謂先務二者皆以力勉強孫炎曰昬夙夜之強也¶
 注書曰至畏死釋曰云書曰不昬作勞者盤庚文云暋不畏死者康誥文¶
 爾雅䟽卷第一¶
-

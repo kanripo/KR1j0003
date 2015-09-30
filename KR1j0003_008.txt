@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅疏
-#+DATE: 2015-09-23 09:41:08
+#+DATE: 2015-09-11 23:37:14.102457
+#+PROPERTY: ID KR1j0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB05n0589-008爾雅疏-卷八.
 <pb:KR1j0003_SBCK_008-1a>¶
 爾雅䟽卷第八¶
 　　　翰林侍講學士朝請大夫守國子祭酒上柱國賜紫金魚袋臣邢　昺　等奉¶
@@ -459,4 +463,3 @@
 秀詩大雅云實發實秀徒有其榮而不實者曰英此亦對文爾故以英爲不實¶
 其實黍稷皆先榮後實詩小雅出車云黍稷方華是嘉榖之秀必有榮也¶
 爾雅䟽卷第八¶
-

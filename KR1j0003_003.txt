@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅疏
-#+DATE: 2015-09-23 09:41:08
+#+DATE: 2015-09-11 23:37:13.870379
+#+PROPERTY: ID KR1j0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB05n0589-003爾雅疏-卷三.
 <pb:KR1j0003_SBCK_003-1a>¶
 爾雅䟽卷第三¶
 　　　翰林侍講學士朝請大夫守國子祭酒上柱國賜紫金魚袋臣邢昺等奉¶
@@ -401,4 +405,3 @@
 之在其母終人道十月而生也¶
 爾雅䟽卷第三¶
 <pb:KR1j0003_SBCK_003-13b>¶
-

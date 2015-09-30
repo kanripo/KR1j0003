@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅疏
-#+DATE: 2015-09-23 09:41:08
+#+DATE: 2015-09-11 23:37:14.202760
+#+PROPERTY: ID KR1j0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB05n0589-010爾雅疏-卷十.
 <pb:KR1j0003_SBCK_010-1a>¶
 爾雅䟽卷第十¶
 　　翰林侍講學士朝請大夫守國子祭酒上柱國賜紫金魚袋臣邢昺等奉¶
@@ -523,4 +527,3 @@
 踆之絶其頷趙盾顧曰君之獒不若臣之獒也何休云周狗可以比周之狗所¶
 指如意是也今此周作害蓋傳冩誤或所見本異也¶
 爾雅䟽卷第十¶
-

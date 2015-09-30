@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅疏
-#+DATE: 2015-09-23 09:41:08
+#+DATE: 2015-09-11 23:37:14.149384
+#+PROPERTY: ID KR1j0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB05n0589-009爾雅疏-卷九.
 <pb:KR1j0003_SBCK_009-1a>¶
 爾雅䟽卷第九¶
 　　　翰林侍講學士朝請大夫守國子祭酒上柱國賜紫金魚袋臣邢昺等奉¶
@@ -482,4 +486,3 @@
 有耆薄國復五千里許有火山國其山雖霖雨火常燃火中白䑕時出山邊求¶
 食人捕得之以毛作布名之火澣布是也¶
 爾雅䟽卷第九¶
-
